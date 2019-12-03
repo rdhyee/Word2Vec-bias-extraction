@@ -7,3 +7,4 @@ lxml==4.4.2
 gensim
 pyLDAvis
 cython
+matplotlib
